@@ -12,10 +12,10 @@ df = pd.read_excel(excel_file_path)
 
 # Database connection parameters
 db_params = {
-    'host_name': 'mysql.fttx.io',
-    'user_name': 'eyeseeyou',
-    'user_password': 'Q3D6G6y2xOYIY32o3eYI3oCuheVOQi',
-    'db_name': 'evt_evonne',
+    'host_name': '##############',
+    'user_name': '############',
+    'user_password': '######################',
+    'db_name': '########################',
 }
 
 # Function to create a database connection
